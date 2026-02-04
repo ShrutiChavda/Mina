@@ -24,8 +24,3 @@ TaskEase is a fully custom WordPress theme developed from scratch without using 
 - **Bootstrap 5** – Grid system and UI components  
 - **JavaScript** – Interactions and animations  
 - **AOS (Animate On Scroll)** – Integrated manually without plugins  
-
----
-
-## 📂 Theme Structure
-
